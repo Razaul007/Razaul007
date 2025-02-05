@@ -16,8 +16,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning next.js.<br>🎯 Goals: Become a Developer!<br>🎲 Fun fact: Travelling!</p>
-
+<p align="left">
+✨ Creating bugs since 2024.<br>
+📚 I'm currently learning Next.js.<br>
+🎯 My goal: Become a Developer!<br>
+🎲 Fun fact: I love traveling!<br>
+📞 Contact: +880 1712067255
+</p>
 ###
 
 <h2 align="left">I code with:</h2>
